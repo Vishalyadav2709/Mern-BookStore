@@ -1,0 +1,142 @@
+[
+    {
+        "_id": "62c6f2a101ebe6a60595f639",
+        "full_name": "Vishal Yadav",
+        "author": "Wonder House Books ",
+        "description": "Description",
+        "price": 55,
+        "available": true,
+        "image": "https://m.media-amazon.com/images/I/81C7xFOScqL._AC_UY218_.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "62c6f3f801ebe6a60595f641",
+        "full_name": "Kachche Pakke Rang Zindagi ke",
+        "author": "Sunil Joshi",
+        "description": "Description",
+        "price": 150,
+        "available": true,
+        "image": "https://m.media-amazon.com/images/I/61Bqc3qTCSL._AC_UY218_.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "62c6f42401ebe6a60595f645",
+        "full_name": "Rich Dad Poor Dad",
+        "author": " Robert T. Kiyosaki",
+        "description": "Description",
+        "price": 500,
+        "available": true,
+        "image": "https://m.media-amazon.com/images/I/81bsw6fnUiL._AC_UY218_.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "62c6f46d01ebe6a60595f64f",
+        "full_name": "The Power of Your Subconscious Mind",
+        "author": "Joseph Murphy ",
+        "description": "Description",
+        "price": 499,
+        "available": true,
+        "image": "https://m.media-amazon.com/images/I/71sBtM3Yi5L._AC_UY218_.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "62c6f4a601ebe6a60595f653",
+        "full_name": "Three Thousand Stitches",
+        "author": "Sudha Murty",
+        "description": "Description",
+        "price": 133,
+        "available": true,
+        "image": "https://m.media-amazon.com/images/I/71ygf-LciIS._AC_UY218_.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "62c6f4eb01ebe6a60595f657",
+        "full_name": "The Carpenter",
+        "author": "Jon Gordon",
+        "description": "Description",
+        "price": 245,
+        "available": false,
+        "image": "https://m.media-amazon.com/images/I/51qihDDNLFL._AC_UY218_.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "62c6f70701ebe6a60595f667",
+        "full_name": "Atomic Habits: The life-changing million copy bestseller",
+        "author": " James Clear ",
+        "description": "Description",
+        "price": 1999,
+        "available": true,
+        "image": "https://m.media-amazon.com/images/I/91bYsX41DVL._AC_UY218_.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "62c6f75901ebe6a60595f66b",
+        "full_name": "Be Your Own Sunshine",
+        "author": " James Allen",
+        "description": "Description",
+        "price": 985,
+        "available": true,
+        "image": "https://m.media-amazon.com/images/I/71I0wCu256L._AC_UY218_.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "62c6fb4001ebe6a60595f697",
+        "full_name": "The Richest Man in Babylon",
+        "author": " George S. Clason",
+        "description": "Description",
+        "price": 456,
+        "available": true,
+        "image": "https://m.media-amazon.com/images/I/81NYuWzsJcS._AC_UY218_.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "62c6fcd501ebe6a60595f69b",
+        "full_name": "Class-5 Mathematics Book",
+        "author": " Oswaal Editorial Board",
+        "description": "Description",
+        "price": 66,
+        "available": true,
+        "image": "https://m.media-amazon.com/images/I/81NN899ZgSL._AC_UY218_.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "62c6fd3001ebe6a60595f69f",
+        "full_name": "Amazon Brand - Solimo 101 Story Book",
+        "author": "Solimo",
+        "description": "Description",
+        "price": 221,
+        "available": false,
+        "image": "https://m.media-amazon.com/images/I/9137pbnjrpL._AC_UL320_.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "62c7c4977515e74fe16bf559",
+        "full_name": "Vishal Yadav",
+        "author": "Wonder House Books ",
+        "description": "Description",
+        "price": 55,
+        "available": true,
+        "image": "https://m.media-amazon.com/images/I/71ygf-LciIS._AC_UY218_.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "62c98ebe707a335a3e57f7ef",
+        "full_name": "Oatvita ",
+        "author": "Sunil Joshi",
+        "description": "Description",
+        "price": 22,
+        "available": true,
+        "image": "https://m.media-amazon.com/images/I/81bsw6fnUiL._AC_UY218_.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "62c98ed5707a335a3e57f7f3",
+        "full_name": "Cadstrawbery",
+        "author": "Joseph Murphy ",
+        "description": "Description",
+        "price": 55,
+        "available": true,
+        "image": "https://m.media-amazon.com/images/I/71sBtM3Yi5L._AC_UY218_.jpg",
+        "__v": 0
+    }
+]
